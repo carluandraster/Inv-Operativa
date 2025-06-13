@@ -1,0 +1,23 @@
+8,1,0,1000,"ejercicio3"
+"QM for Windows 40 Build 130"
+1,2,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#FALSE#,0,0,0,0,0,0
+3,4
+""
+"A"
+"B"
+" "
+"RHS"
+"Minimize"
+"Constraint 1"
+"Constraint 2"
+"Constraint 3"
+4
+Minimize, 0  6  6  0  0 
+Constraint 1, 0  1  1  3  1000 
+Constraint 2, 0  1  0  3  250 
+Constraint 3, 0  4  2  1  2400 
+-1,-1
+"done"
+""

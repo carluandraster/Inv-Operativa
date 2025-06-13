@@ -1,0 +1,21 @@
+8,1,0,1000,"(untitled)"
+"QM for Windows 40 Build 130"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#FALSE#,0,0,0,0,0,0
+2,4
+""
+"SSD"
+"WD"
+" "
+"RHS"
+"Maximize"
+"Horas de tiempo ensamblado [h/p]"
+"Horas de tiempo embalaje [h/p] "
+4
+Maximize, 0  50  120  0  0 
+Horas de tiempo ensamblado [h/p], 0  2  4  1  100 
+Horas de tiempo embalaje [h/p] , 0  3  1  1  60 
+-1,-1
+"done"
+""

@@ -1,0 +1,25 @@
+8,1,0,1000,"(untitled)"
+"QM for Windows 40 Build 130"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#FALSE#,0,0,0,0,0,0
+4,4
+""
+"X1"
+"X2"
+" "
+"RHS"
+"Maximize"
+"Constraint 1"
+"Constraint 2"
+"Constraint 3"
+"Constraint 4"
+4
+Maximize, 0  10  9  0  0 
+Constraint 1, 0  .7  1  1  630 
+Constraint 2, 0  .5  .8333  1  600 
+Constraint 3, 0  1  .6667  1  708 
+Constraint 4, 0  .1  .25  1  135 
+-1,-1
+"done"
+""

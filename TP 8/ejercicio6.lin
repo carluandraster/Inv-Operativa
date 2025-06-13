@@ -1,0 +1,28 @@
+8,1,0,1000,"ejercicio6"
+"QM for Windows 40 Build 130"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#FALSE#,0,0,0,0,0,0
+4,7
+""
+"X1"
+"X2"
+"X3"
+"X4"
+"Nuevo modelo"
+" "
+"RHS"
+"Maximize"
+"Etapa I [h/p]"
+"Etapa II [h/p]"
+"Etapa III [h/p]"
+"Cliente importante"
+7
+Maximize, 0  40  60  30  10  100  0  0 
+Etapa I [h/p], 0  3  4  8  6  4  1  22004 
+Etapa II [h/p], 0  8  2  4  2  5  1  28005 
+Etapa III [h/p], 0  4  6  2  4  5  1  8005 
+Cliente importante, 0  0  0  0  1  0  3  10 
+-1,-1
+"done"
+""

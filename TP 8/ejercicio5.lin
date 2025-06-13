@@ -1,0 +1,23 @@
+8,1,0,1000,"ejercicio5"
+"QM for Windows 40 Build 130"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#FALSE#,0,0,0,0,0,0
+3,4
+""
+"A"
+"B"
+" "
+"RHS"
+"Maximize"
+"Constraint 1"
+"Constraint 2"
+"Constraint 3"
+4
+Maximize, 0  40  30  0  0 
+Constraint 1, 0  3  8  1  48000 
+Constraint 2, 0  12  6  1  42000 
+Constraint 3, 0  9  9  1  36000 
+-1,-1
+"done"
+""
